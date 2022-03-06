@@ -2,7 +2,7 @@ import React from "react";
 
 export function System() {
   const h1 = "Mobile operating System";
-  const h2 = "Mobile Manufacturers";
+  const h2 = "Mobile Manufacturers System";
 
   const phone = ["Android", "Blackberry", "iPhone", "Windows Phone"];
 
